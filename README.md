@@ -1,4 +1,4 @@
-# Credit_Card_Validator
+# Credit_Card_Checker
 > This is a project that was worked on in line with the Codecademy Full-Stack Engineer Course.  <br/>
 > Project: Credit Card Checker  
 
@@ -10,7 +10,8 @@
 
 ## General info
 This project uses Javascript and implementation of the luhn algorithm to take in a card number, validate it and return 'true' if it's valid, 'false' if not, and also returns the company (Visa, Mastercard, etc.) of the card manufacturer.  <br/>
-It then returns all of this information to the user via the console.
+It then returns all of this information to the user via the console.  <br/>
+The arrays at the beggining are examples that can be used in the functions to test the program works.
 
 ## Technologies
 * Coded in Visual Studio Code
